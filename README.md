@@ -1,6 +1,25 @@
 # KDR-2022 - Adam's Room
 Repository for KAU AI-Drone Challenge
 
+## 📝 Skill
+* Perception
+  * Yolov5 Object Detection for Gate Detection
+  * Calculate Coordinate
+* Drone Control
+  * Airsim API
+* etc ..
+  * MultiThreading Programming for Control 🎮 & Perception 👁
+
+## 📌 TODO
+- [ ] Gate Detection  (Perception)
+- [ ] Optimal Path Algorithm (Control)
+- [ ] Additional AI Training
+
+
+## 👤 Collaborator
+* holy_joon 🦋
+* adam_gold 🏅
+* vvonto 🐣
 ## How To Start Simulator
  Korea Aerospace University Drone Racing Trials 2022
  
