@@ -2,12 +2,12 @@
 Repository for KAU AI-Drone Challenge
 
 ## 📝 Skill
-* Perception
+* Perception 👁
   * Yolov5 Object Detection for Gate Detection
   * Calculate Coordinate
-* Drone Control
+* Drone Control 🎮
   * Airsim API
-* etc ..
+* Programming 👩‍💻
   * MultiThreading Programming for Control 🎮 & Perception 👁
 
 ## 📌 TODO
